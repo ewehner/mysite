@@ -6,3 +6,26 @@ li a {
 body {
 	background: white url("images/background.jpg") no-repeat left top;
 }
+
+h1 {
+	color: white;
+}
+
+ul {
+	color: white;
+	font-size: 40pt;
+}
+
+form {
+	color: white;
+	font-size: 40pt;
+}
+
+
+a:link {
+	color: white;
+}
+
+a:visted {
+	color: white;
+}
